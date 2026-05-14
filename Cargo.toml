@@ -8,3 +8,7 @@ edition = "2024"
 [[bin]]
 name = "variables"
 path = "src/topics/01_variables/main.rs"
+
+[[bin]]
+name = "dataTypes"
+path = "src/topics/02_dataTypes/main.rs"
